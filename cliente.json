@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6174bc842cd1d755855f9815"
+  },
+  "dni": "73755433",
+  "nombre": "Yohaira",
+  "apellido": "Cordova",
+  "celular": "9654129",
+  "direccion": "Manuel Pineda 401"
+},{
+  "_id": {
+    "$oid": "617738022cd163a6c5323a6a"
+  },
+  "dni": "12345678",
+  "nombre": "Aythana",
+  "apellido": "Cordova",
+  "celular": "4820064",
+  "direccion": "Manuel Pineda 403"
+},{
+  "_id": {
+    "$oid": "61773b96bbb3e49698ea11dd"
+  },
+  "nombre": "Diana",
+  "apellido": "Ortiz",
+  "celular": "923233314",
+  "direccion": "Manuel Pineda",
+  "dni": "09614063"
+}]
